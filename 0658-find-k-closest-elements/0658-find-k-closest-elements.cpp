@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);  
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         for(auto it:arr){
             pq.push({abs(it-x),it});
