@@ -1,20 +1,23 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);  
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        for(auto it:arr){
-            pq.push({abs(it-x),it});
+        // priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>p;
+        priority_queue<pair<int,int>> p;
+          vector<int>v;
+        for(auto i:arr){
+            int n=abs(x-i);
+         p.push({n,i});
+
+            if(p.size()>k){
+                 p.pop();
+            }
         }
-            vector<int>  ans;
-        while(!pq.empty() && k){
-            ans.push_back(pq.top().second);
-            pq.pop();
-            k--;
+        while(p.size()>0){
+            v.push_back(p.top().second);
+            p.pop();
         }
-        sort(begin(ans),end(ans));
-        return ans;
-        
+        sort(v.begin(),v.end());
+        return v;
+
     }
 };
