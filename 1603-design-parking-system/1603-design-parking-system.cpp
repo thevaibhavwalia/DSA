@@ -1,34 +1,48 @@
 class ParkingSystem {
 public:
-    int big;
-    int small;
-    int medium;
+int b,m,s;
+   
     ParkingSystem(int big, int medium, int small) {
-        this->big=big;
-        this->medium=medium;
-        this->small=small;
+        b=big;
+        m=medium;
+        s=small;
+  
     }
     
     bool addCar(int carType) {
-        if(carType == 1)
-        {
-            big--;
-            return big>=0;
+        if(carType == 1){
+            if(b > 0){
+                b--;
+                return true;
+            }
+            else{
+                return false;
+            }
         }
-        else if(carType == 2)
-        {
-            medium--;
-            return medium>=0;
+        else if(carType == 3){
+                if(s > 0){
+                s--;
+                return true;
+            }
+            else{
+                return false;
+            }
         }
-        else if(carType == 3)
-        {
-             small--;
-            return small>=0;
+        else{
+            if(m > 0){
+                m--;
+                return true;
+            }
+            else{
+                return false;
+            }
         }
-        return false;
-}
-};
 
+        return false;
+ 
+        
+    }
+};
 /**
  * Your ParkingSystem object will be instantiated and called as such:
  * ParkingSystem* obj = new ParkingSystem(big, medium, small);
