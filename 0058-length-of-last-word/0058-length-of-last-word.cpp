@@ -1,17 +1,14 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int len=0;
-        for(int i=s.length()-1;i>=0;i--){
-            if(s[i]==' ' && len==0){
-                continue;
-            }
-            if(s[i]==' '){
-                break;
-            }
-            len++;
+int length = 0;
+        int i = s.size() - 1;
+        while(i >= 0 and s[i] == ' ') i--; // ignoring the tailing whitespaces
+        while(i >= 0 and s[i] != ' ') { // counting the length of thw word
+            i--;
+            length++;
         }
-        return len;
-        
+
+        return length;
     }
 };
