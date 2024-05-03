@@ -15,7 +15,7 @@ string solve(int n){
             i++;
         }
 
-        temp+=to_string(count)+string(1,ch);
+        temp+=to_string(count)+ch;
 
     }
     return temp;
