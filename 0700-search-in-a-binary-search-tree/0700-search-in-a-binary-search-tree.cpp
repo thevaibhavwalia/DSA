@@ -20,8 +20,15 @@ public:
         if(root -> val == val){
             ans = root;
         }
-        solve(root->left,val,ans);
-        solve(root->right,val,ans);
+     else if(root->val < val){
+         solve(root->right,val,ans);
+         
+     }
+     else{
+         solve(root->left,val,ans);
+         
+     }
+
     }
     TreeNode* searchBST(TreeNode* root, int val) {
         TreeNode *ans = NULL;
