@@ -1,15 +1,49 @@
 class Solution {
-    int dfs(int i, int j, string &s, vector<vector<int>> &dp) {
-        if(i >= j) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        
-        if(s[i] == s[j]) return dp[i][j] = dfs(i + 1, j - 1, s, dp);
-        return dp[i][j] = 1 + min(dfs(i + 1, j, s, dp), dfs(i, j - 1, s, dp));
-    }
 public:
-    int minInsertions(string s) {
-        int n = s.size();
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        return dfs(0, n - 1, s, dp);
+    
+    // declare a 2D dp array
+    
+    vector<vector<int>> dp;
+    
+    int helper(string &str, int low, int high)
+    {
+        // base case
+        
+        if(low >= high)
+            return 0;
+        
+        // if already calculated
+        
+        if(dp[low][high] != -1)
+            return dp[low][high];
+        
+        if(str[low] == str[high])
+            return dp[low][high] = helper(str, low + 1, high - 1);
+        else
+        {
+            return dp[low][high] = 1 + min(helper(str, low + 1, high), helper(str, low, high - 1));
+        }
+        
+    }
+    
+    int minInsertions(string str) {
+        
+        int n = str.size();
+        
+        int low = 0;
+        
+        int high = n - 1;
+        
+        // resize dp
+        
+        dp.resize(n + 1);
+        
+        // initialize dp
+        
+        dp.assign(n + 1, vector<int> (n + 1, -1));
+        
+  
+        
+        return helper(str, low, high);
     }
 };
