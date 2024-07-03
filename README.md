@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/thevaibhavwalia/DS/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/thevaibhavwalia/DS/tree/master/0178-rank-scores) |
 | [1670-patients-with-a-condition](https://github.com/thevaibhavwalia/DS/tree/master/1670-patients-with-a-condition) |
+| [1877-find-followers-count](https://github.com/thevaibhavwalia/DS/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
