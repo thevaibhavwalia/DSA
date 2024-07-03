@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/thevaibhavwalia/DS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/thevaibhavwalia/DS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
