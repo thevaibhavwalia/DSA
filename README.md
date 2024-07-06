@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/thevaibhavwalia/DS/tree/master/0178-rank-scores) |
 | [1670-patients-with-a-condition](https://github.com/thevaibhavwalia/DS/tree/master/1670-patients-with-a-condition) |
 | [1877-find-followers-count](https://github.com/thevaibhavwalia/DS/tree/master/1877-find-followers-count) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/thevaibhavwalia/DS/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/thevaibhavwalia/DS/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
