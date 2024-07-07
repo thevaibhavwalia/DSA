@@ -27,17 +27,23 @@ private:
 
     void solve(vector<string>& ans, string temp, int idx) {
         if (idx == N) {
+            if(one(temp)){
      
                 ans.push_back(temp);
+                }
        
             return;
         }
 
-        if (temp.empty() || temp.back() == '1') {
-            solve(ans, temp + '0', idx + 1);
-            solve(ans, temp + '1', idx + 1);
-        } else if (temp.back() == '0') {
-            solve(ans, temp + '1', idx + 1);
-        }
+        solve(ans,temp+'0',idx+1);
+        solve(ans,temp+'1',idx+1);
+
+        // if (temp.empty() || temp.back() == '1') {
+        //     solve(ans, temp + '0', idx + 1);
+        //     solve(ans, temp + '1', idx + 1);
+        // } else if (temp.back() == '0') {
+        //     solve(ans, temp + '1', idx + 1);
+        // }
     }
 };
+
