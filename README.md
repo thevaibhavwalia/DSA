@@ -25,10 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
 | [2645-pass-the-pillow](https://github.com/thevaibhavwalia/DS/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
 | [1803-average-waiting-time](https://github.com/thevaibhavwalia/DS/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/thevaibhavwalia/DS/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
