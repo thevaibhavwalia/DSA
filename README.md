@@ -37,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thevaibhavwalia/DS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thevaibhavwalia/DS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
