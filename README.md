@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/thevaibhavwalia/DS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thevaibhavwalia/DS/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thevaibhavwalia/DS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thevaibhavwalia/DS/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thevaibhavwalia/DS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/thevaibhavwalia/DS/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
