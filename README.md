@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thevaibhavwalia/DS/tree/master/0023-merge-k-sorted-lists) |
 | [0778-reorganize-string](https://github.com/thevaibhavwalia/DS/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thevaibhavwalia/DS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thevaibhavwalia/DS/tree/master/0152-maximum-product-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thevaibhavwalia/DS/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thevaibhavwalia/DS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thevaibhavwalia/DS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
