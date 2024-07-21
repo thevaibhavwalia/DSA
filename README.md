@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thevaibhavwalia/DS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/thevaibhavwalia/DS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/thevaibhavwalia/DS/tree/master/1803-average-waiting-time) |
 ## Greedy
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/thevaibhavwalia/DS/tree/master/0778-reorganize-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thevaibhavwalia/DS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
