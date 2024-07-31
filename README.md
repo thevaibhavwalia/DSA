@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thevaibhavwalia/DS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2645-pass-the-pillow](https://github.com/thevaibhavwalia/DS/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thevaibhavwalia/DS/tree/master/0023-merge-k-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thevaibhavwalia/DS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
