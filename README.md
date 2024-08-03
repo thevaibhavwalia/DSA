@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thevaibhavwalia/DS/tree/master/0067-add-binary) |
 | [0778-reorganize-string](https://github.com/thevaibhavwalia/DS/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/thevaibhavwalia/DS/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thevaibhavwalia/DS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thevaibhavwalia/DS/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thevaibhavwalia/DS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thevaibhavwalia/DS/tree/master/0152-maximum-product-subarray) |
+| [1250-longest-common-subsequence](https://github.com/thevaibhavwalia/DS/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
